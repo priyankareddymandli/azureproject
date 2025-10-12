@@ -1,0 +1,9 @@
+{
+	"name": "df-azureproject-ajay",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "50ed34a8-6014-4910-a25b-b5e618f8cb29",
+		"tenantId": "d1d6ecfc-8ca2-492e-877b-ed0a16f0e14b"
+	}
+}
