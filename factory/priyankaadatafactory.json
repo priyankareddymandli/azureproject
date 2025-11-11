@@ -1,0 +1,9 @@
+{
+	"name": "priyankaadatafactory",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f837712c-70fa-4f37-98f5-793265aa3cc1",
+		"tenantId": "c8abbff6-1413-4807-a0db-fe6f08a45815"
+	}
+}
